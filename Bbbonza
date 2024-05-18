@@ -6,6 +6,6 @@
     "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
     "Refers": 
     [ 
-          { "Lcl":"Russian", "Refera": "https://www.google.com/"}
+          { "Lcl":"Russian", "Refera": ""}
     ]
 }
